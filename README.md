@@ -37,7 +37,7 @@ npm run build
 ```bash
 GIT_USER=<tvoje-username> USE_SSH=false npm run deploy
 ```
-
+[https://gitdocs-lab.github.io/docs-docusaurus-demo/](https://gitdocs-lab.github.io/docs-docusaurus-demo/)
 ---
 
 🔗 Späť na [docs-overview](https://github.com/GitDocs-Lab/docs-overview)
